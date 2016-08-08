@@ -1,0 +1,33 @@
+	body{
+		background-color: #002;
+	}
+	div>div>div>{
+		margin: 10px;
+		padding: 40px;
+		background-color: blue;
+	}
+	div>div{
+		background-color: yellow;
+		margin: 15px;
+		padding: 26px
+
+	}
+
+	p{
+
+		font-size: 20px;
+		font-family: Courier;
+		color:black;
+		border: 2px dashed ; 
+		color:black;
+		background-color: white
+	}
+	#second{
+		background-color: #300 ;
+	}
+
+
+	
+
+	
+	
